@@ -1,5 +1,6 @@
 # Tugas Pemograman Web 2 (Layout Sederhana)
 ## Profil
+| #               | Biodata             |
 | --------------- | ------------------- |
 | **Nama**        | Bilal AlHafidz      |
 | **NIM**         | 312110397           |
